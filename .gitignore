@@ -2,3 +2,4 @@
 __pycache__/
 *.pyc
 .pytest_cache/
+assets/procedural_3d_theme.wav
